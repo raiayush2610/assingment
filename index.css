@@ -1,0 +1,25 @@
+.img {         
+    width: 500px;
+    height: 500px;
+}
+.main{
+    float: center;
+    margin-left: 230px;
+    margin-right: 230px;
+}
+.vertile{
+    flex-grow: 1;
+    display: flex;
+    clear: both;
+    flex-direction: column;
+}
+.des{
+    float: left;
+}
+.title{
+    float: right;
+}
+.date{ float: right;}
+.loclity{
+    float: right;
+}
